@@ -1,13 +1,13 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: rgb(99, 18, 65);
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color:  #f6b319;
   border-radius: 0;
   border: 0;
 }
@@ -87,7 +87,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: rgb(2, 99, 99);
   border-top: 0;
 }
 .panel-footer div.row {
@@ -100,7 +100,7 @@ body {
   font-size: 1.3em;
 }
 #address p {
-  color: #557c3e;
+  color: #eae8eb;
   font-size: .8em;
   line-height: 1.8;
 }
@@ -370,6 +370,8 @@ h3.menu-item-title {
     width: 100%;
   }
 }
+
+
 
 
 
